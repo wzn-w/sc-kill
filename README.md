@@ -7,6 +7,15 @@
 运行要求： 需启动Redis(6379), Mysql(3306), RabbitMQ(5672). 然后先启动服务注册中心Eureka, 再启动Gateway，两个kill服务。
 
 
+运行： 
+
+![运行](https://user-images.githubusercontent.com/67009639/110569388-67fef280-818f-11eb-958c-f4b8bc074a48.png)
+
+![结果](https://user-images.githubusercontent.com/67009639/110569422-76e5a500-818f-11eb-839c-f512084b78e6.png)
+
+![结果](https://user-images.githubusercontent.com/67009639/110569426-78af6880-818f-11eb-91e0-4a1da2743294.png)
+
+![运行2](https://user-images.githubusercontent.com/67009639/110569433-79e09580-818f-11eb-802e-0c152d93d70c.png)
 
 
           

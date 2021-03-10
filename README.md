@@ -13,9 +13,6 @@
 
 ![结果](https://user-images.githubusercontent.com/67009639/110569422-76e5a500-818f-11eb-839c-f512084b78e6.png)
 
-![结果](https://user-images.githubusercontent.com/67009639/110569426-78af6880-818f-11eb-91e0-4a1da2743294.png)
+![结果2](https://user-images.githubusercontent.com/67009639/110569599-ac8a8e00-818f-11eb-989f-e850f3995078.png)
 
 ![运行2](https://user-images.githubusercontent.com/67009639/110569433-79e09580-818f-11eb-802e-0c152d93d70c.png)
-
-
-          
